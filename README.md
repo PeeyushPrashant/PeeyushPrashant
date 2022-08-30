@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://res.cloudinary.com/doohtm4bs/image/upload/v1661883395/undraw_Firmware_re_fgdy_ubwzab.png" width="300" height="200"/>
+<img src="https://res.cloudinary.com/doohtm4bs/image/upload/v1661883860/undraw_Firmware_re_fgdy-removebg-preview_jomlsd.jpg" width="300" height="250"/>
 <br>
 
 # Hi, I am Prashant Peeyush
@@ -18,8 +18,8 @@
   
 * 👨‍💻 I’m Frond End Developer and currently learning Full Stack Web Developement.
 * Checkout my blogs :<br>
-  1] <a href="https://rutvikumak.hashnode.dev/nullish-coalescing-operator" target="_blank"> Nullish Coelcing Operator </a> <br>
-  2] <a href="https://dev.to/rutvikumak/why-react-is-ui-library-and-not-a-framework--4cal" target="_blank"> Why React is UI Library and not a Framework ? </a><br>
-  3] <a href="https://dev.to/rutvikumak/react-useref-hook-2hc4" target="_blank"> React useRef Hook </a>
+  1] <a href="https://prashant3003.hashnode.dev/nullish-coalescing-operator-a-gift-to-modern-developers" target="_blank"> Nullish Coelcing Operator </a> <br>
+  2] <a href="https://prashant3003.hashnode.dev/useeffect-hook-with-lifecycle-methods" target="_blank"> useEffect Hook with lifecycle methods </a><br>
+  3] <a href="https://prashant3003.hashnode.dev/debouncing-in-javascript" target="_blank"> Debouncing in JavaScript </a>
   
 <br>
