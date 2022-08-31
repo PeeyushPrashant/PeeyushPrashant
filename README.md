@@ -8,7 +8,6 @@
   <a href="https://www.linkedin.com/in/prashant-peeyush-9369bb19a/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
   <a href="https://twitter.com/PrashantPeeyush"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
   <br><br>
- <p><img src="https://komarev.com/ghpvc/?username=PeeyushPrashant" alt="PeeyushPrashant" /></p>
 </div>
   <p>All my work life at one place:<p>
   <a href="https://peerlist.io/rutvikumak"><img src="https://github.com/Siddhant-K-code/Siddhant-K-code/raw/master/PL%20Logo%20-%20Primary.svg"></a>
