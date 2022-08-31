@@ -22,6 +22,9 @@
   3] <a href="https://prashant3003.hashnode.dev/debouncing-in-javascript" target="_blank"> Debouncing in JavaScript </a>
   
 <br>
+  
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PeeyushPrashant&theme=algolia" alt="PeeyushPrashant"  /></p>
 
 ## &#x1f4c8; GitHub Stats
 
