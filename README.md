@@ -2,9 +2,9 @@
 
   ### Hi, I am Prashant Peeyush
 
-* 👨‍💻 I am a software engineer and passionate about building cool stuff, System Design, Distributed Systems.
+* 👨‍💻 I am a software engineer and passionate about building cool stuff, System Design & Distributed Systems.
 
-   As of now, I work as a SDE-I at a Bangalore based startup name Javis.ai. Before this, I worked at <a href="https://www.fisglobal.com/">FIS Global</a> . I was also an open source contributor in 
+   As of now, I work as a SDE-I at a Bangalore based startup name <a href="https://www.linkedin.com/company/okjavis/">Javis.ai</a>. Before this, I worked at <a href="https://www.fisglobal.com/">FIS Global</a> . I was also an open source contributor in 
    <a href="https://realdevsquad.com/">Real Dev Squad</a> community.
 
    I keep diving deep into engineering details and share my knowledge.
